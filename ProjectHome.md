@@ -1,0 +1,1 @@
+Mcts-gammon is a bot for backgammon that uses monte-carlo tree search. It's written in Java.
